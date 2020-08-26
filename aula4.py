@@ -34,7 +34,7 @@ print("operador logico or(ou)" , (numero1 <5 or numero2 >20))
 print("operador logico de negacao (NOT)" , (not(numero1 < 5 and numero2 < 5)))
 print("operador relacional !=(diferente", (numero1 != numero2))
 
-#armazena inserir
+#armazena inserir e mudar de tipo de varialvel
 
 nome = input("digite um nome: ")
 print(nome)

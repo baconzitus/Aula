@@ -44,4 +44,4 @@ print(round(numeroDecimal,3))
 
 #Outra forma de arredondamento e definir a quantidade de casas depois da vírgula(pontos)
 print('%.3f' % numeroDecimal)
-#Ver para truncar casas(próxima aula) 
+#Ver para truncar casas(próxima aula) a
